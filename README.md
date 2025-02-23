@@ -33,12 +33,12 @@ Feature Importance: Identified LSTAT (lower status of the population) and RM (nu
 
 Best Model: Optimized Random Forest Regressor.
 Performance Metrics:
-MSE: 9.45
-R²: 0.87
+MSE: 7.86
+R²: 0.89
 8. Challenges
 
 Feature Engineering: Limited features in the dataset restricted the scope for advanced feature engineering.
 Overfitting: Ensured the model was not overfitting by using cross-validation during hyperparameter tuning.
 9. Conclusion
 
-The project successfully demonstrated the application of machine learning techniques to predict house prices. The optimized Random Forest model performed the best, achieving an R² score of 0.87. Future work could involve exploring more advanced models like Neural Networks or using a larger dataset with additional features
+The project successfully demonstrated the application of machine learning techniques to predict house prices. The optimized Random Forest model performed the best, achieving an R² score of 0.89. Future work could involve exploring more advanced models like Neural Networks or using a larger dataset with additional features
